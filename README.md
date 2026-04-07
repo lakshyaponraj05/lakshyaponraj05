@@ -1,13 +1,12 @@
 ## Hi there 👋 it's me Lakshya
-<img align="right" width="390" height="290" src="https://i.pinimg.com/originals/43/db/d0/43dbd0de4a4c6037a71e82af8d857c00.gif">
 🎓 2nd Year CSBS Student
 💻 Aspiring Java Full Stack Developer
 
 
-### 💫 About Me:
+# 💫 About Me:
 🌱 Currently learning Java Full Stack Development<br>💡 Interested in building real-world applications<br>🔧 Practicing Java, HTML, and MySQL<br>🎯 Goal: Get a Java Developer Internship
 
-### 🌐 Socials:
+## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/lakshyaponraj) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lakshyahosur06@gmail.com) 
 
 # 💻 Tech Stack:
